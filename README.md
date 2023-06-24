@@ -1,3 +1,5 @@
+# Development has moved to [github.com/ivcap-works/ivcap-cli](https://github.com/ivcap-works/ivcap-cli)
+
 # IVCAP - A Command-line Tool to interact with an IVCAP deployment
 
 __IVCAP__ is helping researchers better investigate their domains and derive new insights  by collecting, processing and analysing multi-modal and multi-scale data and better facilitating data provenance and thereby fostering interdisciplinary collaboration.
